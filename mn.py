@@ -1,7 +1,6 @@
 from tkinter import *
 from tkinter import ttk
 import requests
-from playsound import playsound 
 
 
 #city_name="Kolkata"
